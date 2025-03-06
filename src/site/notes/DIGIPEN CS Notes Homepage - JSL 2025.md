@@ -1,5 +1,5 @@
 ---
-{"time updated":"2025-03-06T17:07:00","dg-publish":true,"dg-home":true,"permalink":"/digipen-cs-notes-homepage-jsl-2025/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/digipen-cs-notes-homepage-jsl-2025/","tags":["gardenEntry"]}
 ---
 
 This is the home of my digital garden :
