@@ -3,8 +3,7 @@
 ---
 
 ```
-gcc -std=c11 -pedantic-errors -Wstrict-prototypes -Wall -Wextra -Werror
-sum.c -o sum.out
+gcc -std=c11 -pedantic-errors -Wstrict-prototypes -Wall -Wextra -Werror sum.c -o sum.out
 ```
 
 ***explanation:***
