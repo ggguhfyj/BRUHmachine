@@ -69,3 +69,29 @@ COMMON MISTAKE!
 | *q = *p  | copying memory locations              |
 
 
+Passing data by value
+=
+```
+#include <stdio.h>
+void swap(int x, int y) {
+int tmp = x;
+x = y;
+y = tmp;
+}
+int main(void) {
+int i = 5, j = 6;
+swap(i, j);
+printf("%d | %d\n", i, j);
+return 0;
+}
+```
+![Pasted image 20250314115506.png](/img/user/Linked%20files/Pasted%20image%2020250314115506.png)
+
+Passing data by pointer
+=
+
+
+- Use const whenever you can to better communicate to other programmers that you wont mess with memory. also wont let you fuck things up.
+
+
+- c style string literals mark the end by an additional 0. 
